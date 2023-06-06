@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Philip Osunlola
 =======================================================================================================================================
 
-Frontend Developer
+software engineer
 ------------------
 
 I am a Frontend Developer with 2 years experience and a newbie in Backend server language . I am skilled in a range of technologies which includes HTML,CSS, Javascript and Reactjs and a little bit of php and mysql.
