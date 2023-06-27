@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 software engineer
 ------------------
 
-I am a Frontend Developer with 2 years experience and a newbie in Backend server language . I am skilled in a range of technologies which includes HTML,CSS, Javascript and Reactjs and a little bit of php and mysql.
+I am a Full-Stack Developer with 3 years experience and a newbie in Backend server language . I am skilled in a range of technologies which includes HTML,CSS, Javascript, React, PHP and MySQL.
 
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [philiposun@gmail.com](mailto:philiposun@gmail.com)
